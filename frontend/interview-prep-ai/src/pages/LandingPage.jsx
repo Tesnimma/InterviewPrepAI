@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import HERO_IMG from "../assets/banner.png";
 import { APP_FEATURES } from "../utils/data";
 import { LuSparkles } from "react-icons/lu";
-import Modal from "../components/modal";
+import Modal from "../components/Modal";
 import Login from "./Auth/Login";
 import SignUp from "./Auth/SignUp";
 import { useContext } from "react";
